@@ -38,6 +38,14 @@ implementation 'com.github.yoyoyaobin:ReboundLayout:1.0.0'
 </com.hyb.rebound.ReboundScrollView>
 ```
 
+## 设置拖动时的阻尼
+```
+<com.hyb.rebound.ReboundLayout
+xmlns:app="http://schemas.android.com/apk/res-auto"
+app:damping="3"
+>
+```
+
 ## 注意
 需要包住的是一个layout布局，如果是散装控件无效哦
 
