@@ -1,6 +1,6 @@
 # ReboundLayout
 越界回弹效果的Layout
-
+[![](https://jitpack.io/v/yoyoyaobin/ReboundLayout.svg)](https://jitpack.io/#yoyoyaobin/ReboundLayout)
 ![image](https://github.com/yoyoyaobin/ReboundLayout/blob/master/app/src/main/assets/1.gif)
 
 ## 配置
