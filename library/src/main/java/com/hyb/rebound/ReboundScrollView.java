@@ -18,18 +18,18 @@ import android.widget.ScrollView;
  *     </com.hyb.rebound.MyDragLinearLayout>
  * </com.hyb.rebound.MyScrollView>
  */
-public class MyScrollView extends ScrollView {
+public class ReboundScrollView extends ScrollView {
     float mLastY;
 
-    public MyScrollView(Context context) {
+    public ReboundScrollView(Context context) {
         super(context);
     }
 
-    public MyScrollView(Context context, AttributeSet attrs) {
+    public ReboundScrollView(Context context, AttributeSet attrs) {
         super(context, attrs);
     }
 
-    public MyScrollView(Context context, AttributeSet attrs, int defStyleAttr) {
+    public ReboundScrollView(Context context, AttributeSet attrs, int defStyleAttr) {
         super(context, attrs, defStyleAttr);
     }
 
